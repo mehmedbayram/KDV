@@ -17,4 +17,24 @@ The developer may update this Privacy Policy from time to time. Thus, you are ad
 ### Support or Contact
 If you have any questions or suggestions about this Privacy Policy, kindly send an email to mehmetbayrambusiness@hotmail.com with the subject line "KDV Hesaplama Privacy Policy".
 
+## Gizlilik Politikası - Türkçe
+
+Bu gizlilik politikası, Mehmet Bayram tarafından oluşturulan KDV Hesaplama uygulamasının kullanımını düzenler. Uygulama, temel KDV hesaplamaları yapmanızı sağlar.
+
+### Google AdMob ve Reklamlar
+Uygulamamız, üçüncü taraf bir reklam hizmeti olan Google AdMob tarafından sağlanan reklamları gösterebilir. AdMob, kişiselleştirilmiş reklamlar göstermek amacıyla cihazınıza dair verileri toplayabilir ve kullanabilir. Bu veri toplama ve kullanım, AdMob'un gizlilik politikasına tabidir. AdMob, belirli bilgileri otomatik olarak toplayabilir; bunlar arasında kullandığınız mobil cihaz türü, mobil cihazınızın benzersiz cihaz kimliği, mobil cihazınızın IP adresi, mobil işletim sisteminiz ve uygulamayı nasıl kullandığınıza dair bilgiler bulunabilir.
+
+### Sorumluluk Reddi
+AdMob tarafından gösterilen reklamların içeriği üzerinde kontrolümüz yoktur ve bu reklamların içerikleri veya gizlilik uygulamalarından sorumlu değiliz. Bu uygulamanın geliştiricisi, bu reklamlarla yapılan etkileşimlerden veya bu reklamların içeriğine dayanarak yapılan eylemlerden kaynaklanabilecek herhangi bir sorun, kayıp veya hasar için herhangi bir sorumluluk kabul etmez.
+
+### Gizlilik Politikasının Kabulü
+Mobil uygulamamızı kullanarak bu Gizlilik Politikasını kabul etmiş sayılırsınız. Bu politikayı kabul etmiyorsanız, lütfen uygulamamızı kullanmayın. Bu politikada yapılan değişikliklerin yayınlanmasının ardından uygulamanın kullanılmaya devam edilmesi, bu değişikliklerin kabul edildiği anlamına gelecektir.
+
+### Gizlilik Politikasındaki Değişiklikler
+Geliştirici, bu Gizlilik Politikasını zaman zaman güncelleyebilir. Bu nedenle, değişiklikler için bu sayfayı periyodik olarak gözden geçirmeniz tavsiye edilir. Geliştirici, yeni Gizlilik Politikasını bu sayfada yayınlayarak sizi bilgilendirecektir. Bu değişiklikler, bu sayfada yayınlandıkları anda yürürlüğe girer.
+
+### Destek veya İletişim
+Bu Gizlilik Politikası hakkında herhangi bir sorunuz veya öneriniz varsa, lütfen "KDV Hesaplama Gizlilik Politikası" konu başlığı ile mehmetbayrambusiness@hotmail.com adresine e-posta gönderin.
+
+
 <script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>
